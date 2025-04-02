@@ -1,4 +1,5 @@
 Se crea un repositorio sobre algunos ejercicios mas comunes en entrevistas tecnicas sobre JAVA
+
  1.- Problema FIZZBUZZ
  2.- Invertir cadena
  3.- Valida Palindromo            
